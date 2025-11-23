@@ -1,0 +1,12 @@
+Year,Country,Industry,Base_Tariff_%,Adjusted_Tariff_%,Adjustment_Event,Notes
+2020,China,Electronics,2.5,7-25,Section 301/Trade War,High端芯片、通信产品加征关税
+2020,EU,Automobile,2.5,3-10,Retaliatory Tariffs,美增加进口汽车关税，欧盟反制
+2020,Japan,Steel,2.5,4.2,Global Safeguard,钢铁“232”措施加征
+2021,China,Pharma,2.5,8-15,Pandemic Exemptions,部分医疗及防疫品关税豁免
+2021,Mexico,Auto Parts,2.5,2.7,USMCA Update,区域关税微调
+2022,China,Electronics,2.5,12-25,Tech sanctions upgrade,消费电子、元器件进一步加征关税
+2022,Brazil,Agro,2.5,8.5,Competitive Import Tariffs,食糖、牛肉提高进口关税
+2023,EU,Auto/Tech,2.5,4.8-6.2,Green Barriers,数字税与环保壁垒
+2023,India,Metals,2.5,5.1,Anti-dumping Expansion,钢铁、铝材产品实施反补贴
+2024,China,New Energy,2.5,20+,Battery & Solar Measures,锂电池及太阳能产品加征高关税
+2024,EU,High-end Manufacturing,2.5,9.3,Digital/Carbon Adjustment,碳关税、数字服务税提升

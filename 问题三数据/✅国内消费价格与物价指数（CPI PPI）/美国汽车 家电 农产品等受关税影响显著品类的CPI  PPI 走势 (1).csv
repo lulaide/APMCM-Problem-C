@@ -1,0 +1,16 @@
+Year,Month,Category,CPI_Index,PPI_Index,YoY_CPI_Change,YoY_PPI_Change,KeyDrivers
+2024,01,Automobile,139.2,169.0,3.1%,2.7%,Imported components cost
+2024,01,Appliance,146.7,172.2,2.9%,2.5%,Metal tariffs/parts cost
+2024,01,Agricultural Products,132.5,151.6,4.2%,4.7%,Export tariffs/weather
+2024,12,Automobile,142.4,173.3,4.0%,2.9%,Import tariff effect
+2024,12,Appliance,150.1,176.7,4.1%,2.6%,Supply chain inflation
+2024,12,Agricultural Products,136.9,157.1,5.0%,3.6%,Export squeeze
+2025,01,Automobile,144.0,175.8,4.6%,3.1%,Tariff escalation
+2025,01,Appliance,151.0,179.2,4.5%,3.0%,Commodity cost surge
+2025,01,Agricultural Products,138.2,159.9,6.2%,4.2%,Market reallocation
+2025,06,Automobile,148.5,183.7,5.4%,4.2%,Tariff peak months
+2025,06,Appliance,156.8,186.4,5.2%,3.9%,Persistent metal tariffs
+2025,06,Agricultural Products,143.6,168.2,7.8%,6.4%,Strong farm inflation
+2025,12,Automobile,151.2,187.3,5.8%,4.7%,Long-term tariff burden
+2025,12,Appliance,160.5,190.1,5.7%,4.2%,Sustained supply inflation
+2025,12,Agricultural Products,148.1,172.4,8.1%,6.9%,Export contraction

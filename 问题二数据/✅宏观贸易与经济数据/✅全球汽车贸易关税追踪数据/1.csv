@@ -1,0 +1,16 @@
+Year,Region,Country,HS_Code,Product,Avg_Tariff_Rate,Notes
+2020,North America,USA,8703,Passenger Cars,2.5%,"Standard US tariff on passenger cars"
+2020,Europe,EU,8703,Passenger Cars,10-15%,"Varies by EU member state"
+2020,Asia,Japan,8703,Passenger Cars,0%,"Duty-free under ASEAN agreement"
+2021,North America,USA,8703,Passenger Cars,2.5%, 
+2021,Europe,EU,8703,Passenger Cars,10-15%, 
+2021,Asia,Japan,8703,Passenger Cars,0%, 
+2022,North America,USA,8703,Passenger Cars,2.5%, 
+2022,Europe,EU,8703,Passenger Cars,10-15%, 
+2022,Asia,Japan,8703,Passenger Cars,0%, 
+2023,North America,USA,8703,Passenger Cars,2.5%, 
+2023,Europe,EU,8703,Passenger Cars,10-15%, 
+2023,Asia,Japan,8703,Passenger Cars,0%, 
+2024,North America,USA,8703,Passenger Cars,2.5%, 
+2024,Europe,EU,8703,Passenger Cars,10-15%, 
+2024,Asia,Japan,8703,Passenger Cars,0%, 

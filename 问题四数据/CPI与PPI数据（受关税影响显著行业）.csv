@@ -1,0 +1,19 @@
+Year,Month,Category,CPI_Index,PPI_Index,YoY_CPI_Change,YoY_PPI_Change,Notes
+2020,01,Auto,136.4,168.8,2.1,2.3,Pandemic demand dip
+2020,01,Appliances,143.6,175.2,2.0,1.9,Component shortages
+2020,01,Agricultural Products,120.5,154.9,1.9,2.7,Trade war baseline
+2021,06,Auto,139.0,171.5,4.3,3.8,Supply chain recovery, tariffs in effect
+2021,06,Appliances,146.7,178.1,2.7,2.4,Metal tariffs
+2021,06,Agricultural Products,127.2,161.3,4.8,3.9,Export shifts
+2022,12,Auto,143.9,175.7,6.7,4.0,New tariff policy
+2022,12,Appliances,150.5,184.5,3.8,4.2,Commodity inflation
+2022,12,Agricultural Products,134.1,166.7,5.2,2.7,Weather and tariffs
+2023,12,Auto,146.8,180.9,2.2,2.9,Input cost persist
+2023,12,Appliances,153.7,187.2,2.1,1.5,Steady demand
+2023,12,Agricultural Products,136.6,169.1,1.9,1.4,Export recovery
+2024,06,Auto,149.5,185.3,1.7,2.5,2024 tariffs, inflation
+2024,06,Appliances,155.9,192.1,1.3,2.6,Continued tariffs
+2024,06,Agricultural Products,139.8,173.6,2.3,2.7,Export restrictions
+2024,12,Auto,150.2,186.2,1.4,1.7,Consumer price pass-through
+2024,12,Appliances,157.0,193.8,1.4,0.9,Costs stabilize
+2024,12,Agricultural Products,141.1,175.7,2.0,1.9,Input cost pressure

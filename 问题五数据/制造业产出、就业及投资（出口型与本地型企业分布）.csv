@@ -1,0 +1,16 @@
+Year,Industry,Category,Output_Billion_USD,Employment_Thousand,Investment_Billion_USD,Notes
+2020,Automobile,Export-oriented,530,960,32,全球需求降温、疫情影响，出口型企业萎缩
+2020,Pharmaceutical,Domestic,145,230,17,医药防疫投资增，内需主导
+2020,Electronics,Export-oriented,410,690,20,全球供应链扰动，出口型压力加大
+2021,Automobile,Export-oriented,570,995,34,需求恢复、出口增长
+2021,Pharmaceutical,Domestic,153,240,18,疫苗制造推动本地投资
+2021,Electronics,Export-oriented,465,760,22,出口型企业逐步回升
+2022,Automobile,Export-oriented,612,1020,37,贸易环境改善但部分出口受限
+2022,Pharmaceutical,Domestic,158,247,19,内需扩张
+2022,Electronics,Export-oriented,480,800,21,出口型投资增长放缓
+2023,Automobile,Export-oriented,626,1055,38,受关税与反制影响，投资结构变化
+2023,Pharmaceutical,Domestic,167,252,20,稳定增长
+2023,Electronics,Export-oriented,492,845,20,高端制造回流部分加快
+2024,Automobile,Export-oriented,609,1030,36,出口型企业受挤压
+2024,Pharmaceutical,Domestic,165,251,21,医药本地需求突出
+2024,Electronics,Export-oriented,487,820,19,全球订单外移明显

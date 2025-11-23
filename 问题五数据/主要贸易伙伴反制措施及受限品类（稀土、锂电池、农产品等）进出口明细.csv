@@ -1,0 +1,18 @@
+Year,Country,Restricted_Product,US_Exports_to_Country_MillionUSD,US_Imports_from_Country_MillionUSD,Retaliatory_Measures,Export_Control_Notes
+2020,China,Rare Earths,38,227,Export quota,环保与国安为由限制配额
+2020,China,Lithium Batteries,42,890,Technological export ban,部分锂电池与关键技术出口受限
+2020,China,Soybeans,13300,12000,Counter-tariffs,对美加征反制关税
+2021,China,Rare Earths,36,235,Export control,扩大出口许可证范围
+2021,China,Gallium/Germanium,15,56,Tech export ban,新增半导体原材料出口限制
+2021,Mexico,Corn,3400,1200,Sanitary barriers,新增品质检验标准
+2022,EU,Beef,2400,3800,Selective bans,环保标准限制进口
+2022,China,Soybeans,11500,6800,Counter-tariffs,继续加征关税，贸易流向巴西
+2023,China,Rare Earths,29,180,Export control,新增关键矿物出口禁令
+2023,China,Lithium Batteries,28,820,Tech/Export ban,加征关税限制与新技术限制
+2023,China,Gallium/Germanium,12,50,Ban/Quota,扩大实施范围
+2023,China,Indium phosphide,8,32,Permit system,出口须申报许可
+2023,Mexico,Beef,1700,2900,Anti-dumping,提升反倾销调查
+2024,China,Soybeans,8500,5200,Counter-tariffs,对美国继续征税并加速替代
+2024,China,Rare Earths,22,142,Tech export ban,加严技术及装备出口控制
+2024,China,Lithium Batteries,31,900,Reciprocal tariffs,中美双方增加关税
+2024,EU,Pork,800,1500,Health standards,新增禽流感检疫条例
